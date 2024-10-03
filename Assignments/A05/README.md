@@ -1,4 +1,4 @@
-##  Assignments Folder
+##  Easy Peasy
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
